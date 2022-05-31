@@ -3,10 +3,10 @@
 <p align="left">
 <a href="https://twitter.com/sushant_pdll" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sushant403/sushant403/master/assets/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sushant-poudel-125457135/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/sushant403/sushant403/master/assets/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sushant_pdll/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/34HpwMdK/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/906/906361.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.instagram.com/sushant_pdll/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <a href="https://discord.gg/34HpwMdK/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/906/906361.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.upwork.com/o/profiles/users/~010f233202f1bb5ba7/" target="_blank"><img height="30" src="https://s3.amazonaws.com/clarityfm-production/attachments/15782/default/Untitled_design_(55).png?1492805681"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.fiverr.com/sushantpdl" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732199.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.fiverr.com/sushantpdl" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732199.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
 <br>
@@ -55,16 +55,4 @@ Find me anywhere, upwork, fiverr or linkedin for business related queries.
 <hr>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
 </div>
-
-<!-- <br><br> -->
-
-<!-- <a href="https://github.com/sushant403/college-board" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushant403&repo=college-board&theme=dracula" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/sushant403/college-board" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushant403&repo=college-board&theme=dracula" />
-</a> -->
