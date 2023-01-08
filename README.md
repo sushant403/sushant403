@@ -44,15 +44,9 @@ Find me anywhere, upwork, fiverr or linkedin for business related queries.
 
 <br>
 
-<hr>
-
 <!-- <summary>📈 Alpha Stats</summary> <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushant403&show_icons=true&theme=gotham" alt="sushantpoudel" />
  -->
 </br>
 <br>
-<hr>
-<div align="center">
-
-</div>
