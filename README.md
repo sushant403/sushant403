@@ -11,7 +11,7 @@
 
 <br>
 
-Hi, I'm [Sushant Poudel](https://sushant403.github.io/), a Web Designer and a Full Stack developer. I'm a creative problem solving enthusiast, and a perfectionist with eye for attention to minor details. 
+Hi, I'm [Sushant Poudel](https://sushantp.com.np), a Web Designer and a Full Stack developer. I'm a creative problem solving enthusiast, and a perfectionist with eye for attention to minor details. 
 
 Find me on Upwork, Fiverr or LinkedIn for business related queries.
 
