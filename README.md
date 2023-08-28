@@ -9,6 +9,10 @@
 <!-- <a href="https://www.fiverr.com/sushantpdl" target="_blank"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732199.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
+<br />
+
+https://github-readme-streak-stats.herokuapp.com/?user=sushant403&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
+
 <br>
 
 Hi, I'm [Sushant Poudel](https://sushantp.com.np), a Web Designer and a Full Stack developer. I'm a creative problem solving enthusiast, and a perfectionist with eye for attention to minor details. 
