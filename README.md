@@ -19,21 +19,10 @@ Find me on Upwork, Fiverr or LinkedIn for business related queries.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant403&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="sushant403 Streak" />
 
+<img align="right" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 <br>
-
- <img align="right" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
-
-📫 How to reach me: [s******del@gmail.com](mailto:sushantpaudel@gmail.com)
-
- <br>
-
-<p align="left"> <img src="https://img.shields.io/twitter/follow/sushant_pdll?label=Sushant%20Poudel&style=social" alt="Sushant Poudel" /> </p>
-
- <br>
-
 **Languages and Tools:**
-<br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
