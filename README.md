@@ -20,7 +20,9 @@
 
 <img align="right" width="300" alt="Coding GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-🎯 **Full Stack Developer & Web Designer** passionate about creating exceptional digital experiences
+<br>
+
+🎯 **Full Stack Developer & Web Designer** passionate about creating exceptional digital experiences.
 
 💡 **Creative Problem Solver** with an eye for perfection and attention to detail
 
