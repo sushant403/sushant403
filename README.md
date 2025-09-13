@@ -106,13 +106,13 @@
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
   <img src="https://github-profile-trophy.vercel.app/?username=sushant403&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="sushant403's Trophies" />
-  
 </div>
+-->
 
 ---
 
